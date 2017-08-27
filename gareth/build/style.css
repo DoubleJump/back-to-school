@@ -5,7 +5,6 @@
 }
 body, html
 {
-	background: #080F19;
 	overflow: hidden;
 	width: 100vw;
     height: 100vh;
@@ -34,8 +33,9 @@ body, html
 {
 	cursor: pointer;
 }
-
+/*
 svg
 {
 	pointer-events: none;
 }
+*/

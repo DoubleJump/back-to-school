@@ -1,0 +1,79 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="_class_fluid-mask" data-name="#class=fluid-mask" x="834" y="414" width="252" height="252" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle cx="960" cy="540" r="121" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>flask</title>
+  <g id="_class_flask" data-name="#class=flask">
+    <g id="_class_fluid" data-name="#class=fluid">
+      <g style="clip-path: url(#clip-path)">
+        <circle cx="960" cy="540" r="121" style="fill: #ed1e79"/>
+      </g>
+    </g>
+    <path d="M993,408V321h12.42a4.58,4.58,0,0,0,4.58-4.58V301.58a4.58,4.58,0,0,0-4.58-4.58H914.58a4.58,4.58,0,0,0-4.58,4.58v14.83a4.58,4.58,0,0,0,4.58,4.58H927v86.35a4.93,4.93,0,0,1-3.58,4.75A133.06,133.06,0,0,0,827,537.43c-1.4,73.76,58.25,135,132,135.57a133,133,0,0,0,37-261.06A4.09,4.09,0,0,1,993,408Z" style="fill: none;stroke: #4d4d4d;stroke-miterlimit: 10;stroke-width: 4px"/>
+    <g style="clip-path: url(#clip-path-2)">
+      <g id="_class_bubble-level" data-name="#class=bubble-level">
+        <g id="_class_bubble" data-name="#class=bubble">
+          <circle id="_class_bubble-fill" data-name="#class=bubble-fill" cx="892" cy="444" r="17" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell" data-name="#class=bubble-shell" d="M909,444a17,17,0,0,1-34,0c0-9.15,6.54-17,17-17S909,436.15,909,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-2" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-2" data-name="#class=bubble-fill" cx="975" cy="444" r="17" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-2" data-name="#class=bubble-shell" d="M992,444a17,17,0,0,1-34,0c0-9.15,6.54-17,17-17S992,436.15,992,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-3" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-3" data-name="#class=bubble-fill" cx="1009" cy="444" r="7" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-3" data-name="#class=bubble-shell" d="M1016,444a7,7,0,0,1-14,0,6.79,6.79,0,0,1,7-7A7.11,7.11,0,0,1,1016,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-4" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-4" data-name="#class=bubble-fill" cx="849" cy="444" r="7" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-4" data-name="#class=bubble-shell" d="M856,444a7,7,0,0,1-14,0,6.79,6.79,0,0,1,7-7A7.11,7.11,0,0,1,856,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-5" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-5" data-name="#class=bubble-fill" cx="1036" cy="444" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-5" data-name="#class=bubble-shell" d="M1047,444a11,11,0,0,1-22,0,10.67,10.67,0,0,1,11-11A11.18,11.18,0,0,1,1047,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-6" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-6" data-name="#class=bubble-fill" cx="1064" cy="444" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-6" data-name="#class=bubble-shell" d="M1075,444a11,11,0,0,1-22,0,10.67,10.67,0,0,1,11-11A11.18,11.18,0,0,1,1075,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-7" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-7" data-name="#class=bubble-fill" cx="932" cy="445" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-7" data-name="#class=bubble-shell" d="M943,445a11,11,0,0,1-22,0,10.67,10.67,0,0,1,11-11A11.18,11.18,0,0,1,943,445Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-8" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-8" data-name="#class=bubble-fill" cx="1031" cy="444" r="17" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-8" data-name="#class=bubble-shell" d="M1014,444a17,17,0,0,1,34,0c0,9.15-6.54,17-17,17S1014,451.85,1014,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-9" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-9" data-name="#class=bubble-fill" cx="948" cy="444" r="17" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-9" data-name="#class=bubble-shell" d="M931,444a17,17,0,0,1,34,0c0,9.15-6.54,17-17,17S931,451.85,931,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-10" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-10" data-name="#class=bubble-fill" cx="914" cy="444" r="7" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-10" data-name="#class=bubble-shell" d="M907,444a7,7,0,0,1,14,0,6.79,6.79,0,0,1-7,7A7.11,7.11,0,0,1,907,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-11" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-11" data-name="#class=bubble-fill" cx="1074" cy="444" r="7" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-11" data-name="#class=bubble-shell" d="M1067,444a7,7,0,0,1,14,0,6.79,6.79,0,0,1-7,7A7.11,7.11,0,0,1,1067,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-12" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-12" data-name="#class=bubble-fill" cx="887" cy="444" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-12" data-name="#class=bubble-shell" d="M876,444a11,11,0,0,1,22,0,10.67,10.67,0,0,1-11,11A11.18,11.18,0,0,1,876,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-13" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-13" data-name="#class=bubble-fill" cx="859" cy="444" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-13" data-name="#class=bubble-shell" d="M848,444a11,11,0,0,1,22,0,10.67,10.67,0,0,1-11,11A11.18,11.18,0,0,1,848,444Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+        <g id="_class_bubble-14" data-name="#class=bubble">
+          <circle id="_class_bubble-fill-14" data-name="#class=bubble-fill" cx="991" cy="443" r="11" style="fill: #ed1e79"/>
+          <path id="_class_bubble-shell-14" data-name="#class=bubble-shell" d="M980,443a11,11,0,0,1,22,0,10.67,10.67,0,0,1-11,11A11.18,11.18,0,0,1,980,443Z" style="fill: none;stroke: #ed1e79;stroke-miterlimit: 10;stroke-width: 2px"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
